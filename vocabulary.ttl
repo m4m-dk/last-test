@@ -1,17 +1,17 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix vars: <http://ontology.deic.org/cv/last-test/> .
+@prefix vars: <http://ontology.deic.dk/cv/last-test/> .
 
-<http://ontology.deic.org/cv/last-test/> a skos:Concept, skos:ConceptScheme;
+<http://ontology.deic.dk/cv/last-test/> a skos:Concept, skos:ConceptScheme;
   dct:creator "Hannah"@en;
   dct:description "this is the last test"@en;
   dct:title "last test"@en;
-  skos:hasTopConcept <http://ontology.deic.org/cv/last-test/>, vars:lasttest;
-  skos:inScheme <http://ontology.deic.org/cv/last-test/>;
-  skos:topConceptOf <http://ontology.deic.org/cv/last-test/> .
+  skos:hasTopConcept <http://ontology.deic.dk/cv/last-test/>, vars:lasttest;
+  skos:inScheme <http://ontology.deic.dk/cv/last-test/>;
+  skos:topConceptOf <http://ontology.deic.dk/cv/last-test/> .
 
 vars:lasttest a skos:Concept;
-  skos:inScheme <http://ontology.deic.org/cv/last-test/>;
+  skos:inScheme <http://ontology.deic.dk/cv/last-test/>;
   skos:prefLabel "last test"@en;
-  skos:topConceptOf <http://ontology.deic.org/cv/last-test/> .
+  skos:topConceptOf <http://ontology.deic.dk/cv/last-test/> .
