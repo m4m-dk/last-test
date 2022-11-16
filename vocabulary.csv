@@ -10,6 +10,7 @@ Metadata about vocabulary
 
 dct:title,last test,Title of the vocabulary
 dct:description,this is the last test,Description of the controlled vocabulary
+dct:creator,https://orcid.org/0000-0003-4093-2147,Eva
 dct:creator,Hannah
 dct:rights,,License under which the vocabulary is provided
 pav:version,,Vocabulary version

@@ -4,7 +4,7 @@
 @prefix vars: <http://ontology.deic.dk/cv/last-test/> .
 
 <http://ontology.deic.dk/cv/last-test/> a skos:Concept, skos:ConceptScheme;
-  dct:creator "Hannah"@en;
+  dct:creator "Hannah"@en, <https://orcid.org/0000-0003-4093-2147>;
   dct:description "this is the last test"@en;
   dct:title "last test"@en;
   skos:hasTopConcept <http://ontology.deic.dk/cv/last-test/>, vars:lasttest;
