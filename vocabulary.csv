@@ -20,7 +20,7 @@ Definition of terms (optionally properties)
 
 Identifier,skos:prefLabel@en,"qudt:unit(separator="","")","skos:altLabel(separator="";"")",skos:definition@en,"dct:source(separator="","")","skos:broader(separator="","")","skos:exactMatch(separator="","")","skos:closeMatch(separator="","")",skos:editorialNote@en,"dct:creator(separator="","")","dct:contributor(separator="","")"
 vars:lasttest,last test
-vars:
+vars:dontknowwhattowrite,still clueless what to write
 vars:
 vars:
 vars:
