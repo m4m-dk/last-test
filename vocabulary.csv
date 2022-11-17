@@ -12,7 +12,7 @@ dct:title,last test,Title of the vocabulary
 dct:description,this is the last test,Description of the controlled vocabulary
 dct:creator,https://orcid.org/0000-0003-4093-2147,Eva
 dct:creator,Hannah
-dct:rights,,License under which the vocabulary is provided
+dct:rights,Minka,License under which the vocabulary is provided
 pav:version,,Vocabulary version
 pav:createdOn,,Date when vocabulary was initially created (follow https://en.wikipedia.org/wiki/ISO_8601)
 pav:lastUpdatedOn,,Date of the last vocabulary update
@@ -20,7 +20,7 @@ Definition of terms (optionally properties)
 
 Identifier,skos:prefLabel@en,"qudt:unit(separator="","")","skos:altLabel(separator="";"")",skos:definition@en,"dct:source(separator="","")","skos:broader(separator="","")","skos:exactMatch(separator="","")","skos:closeMatch(separator="","")",skos:editorialNote@en,"dct:creator(separator="","")","dct:contributor(separator="","")"
 vars:lasttest,last test
-vars:dontknowwhattowrite,still clueless what to write
+vars:cluelesswhattowrite,clueless what to write
 vars:
 vars:
 vars:
